@@ -1,0 +1,2 @@
+Prefix plugins/BWA2Bowtie/example/
+Plugin BWA2Bowtie inputfile 1.bam outputfile output.bam
